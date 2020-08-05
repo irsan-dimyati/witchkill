@@ -1,0 +1,13 @@
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\bin\Debug\netcoreapp3.1\GSDevTest.exe
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\bin\Debug\netcoreapp3.1\GSDevTest.deps.json
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\bin\Debug\netcoreapp3.1\GSDevTest.runtimeconfig.json
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\bin\Debug\netcoreapp3.1\GSDevTest.runtimeconfig.dev.json
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\bin\Debug\netcoreapp3.1\GSDevTest.dll
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\bin\Debug\netcoreapp3.1\GSDevTest.pdb
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\obj\Debug\netcoreapp3.1\GSDevTest.csprojAssemblyReference.cache
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\obj\Debug\netcoreapp3.1\GSDevTest.csproj.CoreCompileInputs.cache
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\obj\Debug\netcoreapp3.1\GSDevTest.AssemblyInfoInputs.cache
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\obj\Debug\netcoreapp3.1\GSDevTest.AssemblyInfo.cs
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\obj\Debug\netcoreapp3.1\GSDevTest.dll
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\obj\Debug\netcoreapp3.1\GSDevTest.pdb
+C:\Users\irsan\source\repos\GSDevTest\GSDevTest\obj\Debug\netcoreapp3.1\GSDevTest.genruntimeconfig.cache

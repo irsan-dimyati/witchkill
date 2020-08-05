@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSDevTest", "GSDevTest\GSDevTest.csproj", "{C0BF1CD3-85AD-4380-A6B7-292E8F84BB5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0BF1CD3-85AD-4380-A6B7-292E8F84BB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BF1CD3-85AD-4380-A6B7-292E8F84BB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BF1CD3-85AD-4380-A6B7-292E8F84BB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BF1CD3-85AD-4380-A6B7-292E8F84BB5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC87B0E-7591-4949-AEC7-8D8FA9CD0DD8}
+	EndGlobalSection
+EndGlobal
